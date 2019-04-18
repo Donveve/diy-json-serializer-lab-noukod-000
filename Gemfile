@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
+<<<<<<< HEAD
 gem 'rails-controller-testing', '~> 0.0.3'
+=======
+>>>>>>> 424b9c2636d4530df334e0651e871492cd91f8e6
 gem 'selenium-webdriver', '~> 2.53', '>= 2.53.4'
 gem 'pry'
 gem 'pry-nav'
